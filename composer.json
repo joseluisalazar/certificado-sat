@@ -1,0 +1,14 @@
+{
+    "name": "joseluisalazar/certificado-sat",
+    "description": "lIbreria para el manejo de certificados .cer .key",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "José Luis Kú Salazar",
+            "email": "kusalazar.jose@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
