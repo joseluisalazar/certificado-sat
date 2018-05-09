@@ -1,6 +1,6 @@
 {
     "name": "joseluisalazar/certificado-sat",
-    "description": "lIbreria para el manejo de certificados .cer .key .pfx",
+    "description": "Libreria para el manejo de certificados .cer .key .pfx del SAT.",
     "type": "library",
     "license": "MIT",
     "authors": [
