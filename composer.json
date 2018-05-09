@@ -10,9 +10,9 @@
             "email": "kusalazar.jose@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "php": "^7.0"
+        "php": "^5.6"
     },
     "autoload": {
         "psr-4": {
@@ -23,6 +23,5 @@
         "psr-4": {
             "JLS\\Certificado\\Tests\\": "tests"
         }
-    },
-    "prefer-stable": true
+    }
 }
