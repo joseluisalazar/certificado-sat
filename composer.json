@@ -1,6 +1,6 @@
 {
     "name": "joseluisalazar/certificado-sat",
-    "description": "lIbreria para el manejo de certificados .cer .key",
+    "description": "lIbreria para el manejo de certificados .cer .key .pfx",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,5 +10,18 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JLS\\Certificado\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JLS\\Certificado\\Tests\\": "tests"
+        }
+    },
+    "prefer-stable": true
 }
