@@ -1,5 +1,5 @@
 {
-    "name": "certificado/certificado-sat",
+    "name": "joseluisalazar/certificado-sat",
     "description": "Libreria para el manejo de certificados .cer .key .pfx del SAT.",
     "version" : "1.0.1",
     "type": "library",
