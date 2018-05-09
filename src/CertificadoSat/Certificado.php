@@ -1,8 +1,6 @@
 <?php
 
-namespace JLS\Certificado;
-
-use Exception;
+namespace CertificadoSat;
 
 class Certificado
 {

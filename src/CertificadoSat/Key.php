@@ -1,6 +1,5 @@
 <?php
-namespace JLS\Certificado;
-
+namespace CertificadoSat;
 
 class Key
 {
