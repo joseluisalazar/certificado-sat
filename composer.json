@@ -1,5 +1,5 @@
 {
-    "name": "wicho/certificado-sat",
+    "name": "joseluisalazar/certificado-sat",
     "description": "Libreria para el manejo de certificados .cer .key .pfx",
     "type": "library",
     "license": "MIT",
